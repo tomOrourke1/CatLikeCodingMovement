@@ -198,3 +198,1096 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004957 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.193 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1194ms)
+		BeginReloadAssembly (121ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (1015ms)
+			LoadAssemblies (95ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (347ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (428ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (48ms)
+				ProcessInitializeOnLoadAttributes (366ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.9 MB.
+System memory in use after: 124.2 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3850.
+Total: 4.011300 ms (FindLiveObjects: 0.312000 ms CreateObjectMapping: 0.097300 ms MarkObjects: 3.531900 ms  DeleteObjects: 0.068900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004884 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.198 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1199ms)
+		BeginReloadAssembly (125ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (1016ms)
+			LoadAssemblies (95ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (346ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (432ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (368ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3392 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.0 MB.
+System memory in use after: 124.2 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3853.
+Total: 3.817500 ms (FindLiveObjects: 0.305300 ms CreateObjectMapping: 0.089400 ms MarkObjects: 3.349600 ms  DeleteObjects: 0.071500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1607.937983 seconds.
+  path: Assets/Prefabs/Temp Player.prefab
+  artifactKey: Guid(11ade372cebe95a4eaff392506fc4eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Temp Player.prefab using Guid(11ade372cebe95a4eaff392506fc4eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c907c1335f4ab48375d5638df78df8') in 0.751647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 207.099488 seconds.
+  path: Assets/VisualScripts/OnGround.asset
+  artifactKey: Guid(820d3730c0dbdd74cb4b98393d1c6db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/OnGround.asset using Guid(820d3730c0dbdd74cb4b98393d1c6db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460df6691b7e3ffe5ddf07df4616ecb2') in 0.004208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 75.453652 seconds.
+  path: Assets/VisualScripts/OnGround.asset
+  artifactKey: Guid(820d3730c0dbdd74cb4b98393d1c6db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/OnGround.asset using Guid(820d3730c0dbdd74cb4b98393d1c6db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b29cbc962a21c8cf709f423d706ea4d') in 0.021198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 525.547425 seconds.
+  path: Assets/VisualScripts/MovingSphere.asset
+  artifactKey: Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/MovingSphere.asset using Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629827f10537e489d3fc7796a08833f9') in 0.015090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 365.860241 seconds.
+  path: Assets/VisualScripts/MovingSphere.asset
+  artifactKey: Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/MovingSphere.asset using Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51dc28eddda50b167b4b1395b8dae322') in 0.009710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.798870 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(61460078f1cb8ae429a995383b66a148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(61460078f1cb8ae429a995383b66a148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3cd32f0174c2bb9e7cc18198d9be47e') in 0.002706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.560921 seconds.
+  path: Assets/Scripts/EventScript.cs
+  artifactKey: Guid(ca091c3b52ab9064fb912e26b25f5564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EventScript.cs using Guid(ca091c3b52ab9064fb912e26b25f5564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a939e0dbbd52669cc657e7787789c4a') in 0.005890 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004921 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.180 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1180ms)
+		BeginReloadAssembly (145ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61ms)
+		EndReloadAssembly (978ms)
+			LoadAssemblies (103ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (340ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (395ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (48ms)
+				ProcessInitializeOnLoadAttributes (332ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.7 MB.
+System memory in use after: 127.9 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 3865.
+Total: 4.001400 ms (FindLiveObjects: 0.307800 ms CreateObjectMapping: 0.099300 ms MarkObjects: 3.520700 ms  DeleteObjects: 0.072200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 94.120308 seconds.
+  path: Assets/Scripts/EventScript.cs
+  artifactKey: Guid(ca091c3b52ab9064fb912e26b25f5564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EventScript.cs using Guid(ca091c3b52ab9064fb912e26b25f5564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b492d427d17b215fcc6dec21f652b2e') in 0.007673 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004929 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.189 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1190ms)
+		BeginReloadAssembly (129ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (1002ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (344ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (414ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (50ms)
+				ProcessInitializeOnLoadAttributes (350ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.7 MB.
+System memory in use after: 127.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3868.
+Total: 3.770600 ms (FindLiveObjects: 0.322300 ms CreateObjectMapping: 0.090100 ms MarkObjects: 3.293600 ms  DeleteObjects: 0.062700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004860 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.158 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1159ms)
+		BeginReloadAssembly (115ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (987ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (340ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (410ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (348ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.7 MB.
+System memory in use after: 128.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3871.
+Total: 4.076300 ms (FindLiveObjects: 0.323900 ms CreateObjectMapping: 0.094900 ms MarkObjects: 3.577000 ms  DeleteObjects: 0.078600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 282.622098 seconds.
+  path: Assets/VisualScripts/MovingSphere.asset
+  artifactKey: Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/MovingSphere.asset using Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f739af40a6f6767b42e4b2d2983483f7') in 0.696895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1853.207504 seconds.
+  path: Assets/VisualScripts/MovingSphere.asset
+  artifactKey: Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/MovingSphere.asset using Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b61bc29f68267a1ac44ed621ae3e8b3') in 0.099815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.293003 seconds.
+  path: Assets/VisualScripts/ProjectOnContactPlane.asset
+  artifactKey: Guid(7e8cda6cda64f004fbc4d3d557da4809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/ProjectOnContactPlane.asset using Guid(7e8cda6cda64f004fbc4d3d557da4809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248ce96def661927598eea179e93d150') in 0.006797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1613.625068 seconds.
+  path: Assets/VisualScripts/ProjectOnContactPlane.asset
+  artifactKey: Guid(7e8cda6cda64f004fbc4d3d557da4809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/ProjectOnContactPlane.asset using Guid(7e8cda6cda64f004fbc4d3d557da4809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfd025a4d7e0edd8c205c7893d9c7607') in 0.009172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.631320 seconds.
+  path: Assets/VisualScripts/_Segment.asset
+  artifactKey: Guid(895bc2a8f74b2624c91c302eda310e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/_Segment.asset using Guid(895bc2a8f74b2624c91c302eda310e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd94e8a9dce0aacc2e0808e4ea8ec34b4') in 0.006606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2745.146080 seconds.
+  path: Assets/VisualScripts/_Segment.asset
+  artifactKey: Guid(895bc2a8f74b2624c91c302eda310e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/_Segment.asset using Guid(895bc2a8f74b2624c91c302eda310e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe5f8b1f0530f48ed4536a8862ecba4') in 0.004344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/VisualScripts/MovingSphere.asset
+  artifactKey: Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/MovingSphere.asset using Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Could not load connection between 'value' of 'GetMember#045f3...' and 'v' of 'SuperUnit#a3043...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ValueOutput, Unity.VisualScripting.ValueInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'VEX' of 'SuperUnit#a3043...' and 'target' of 'GetMember#439b8...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ValueOutput, Unity.VisualScripting.ValueInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'VEX' of 'SuperUnit#9bf93...' and 'target' of 'GetMember#64b06...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ValueOutput, Unity.VisualScripting.ValueInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between '4' of 'Sequence#3c953...' and 'in' of 'SuperUnit#19c6a...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between '3' of 'Sequence#3c953...' and 'in' of 'SuperUnit#7b1cb...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between '2' of 'Sequence#3c953...' and 'in' of 'SuperUnit#c0d59...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between '1' of 'Sequence#3c953...' and 'in' of 'SuperUnit#56e57...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between '0' of 'Sequence#3c953...' and 'in' of 'SuperUnit#3bc2c...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between '5' of 'Sequence#3c953...' and 'in' of 'SuperUnit#575b2...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'out' of 'SuperUnit#8daff...' and 'assign' of 'SetVariable#a865c...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'out' of 'SuperUnit#a431c...' and 'assign' of 'SetVariable#40cbc...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'out' of 'SuperUnit#575b2...' and 'assign' of 'SetVariable#dcf63...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'out' of 'SuperUnit#19c6a...' and 'assign' of 'SetVariable#62a4e...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'out' of 'SuperUnit#c0d59...' and 'assign' of 'SetVariable#57a88...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'out' of 'SuperUnit#56e57...' and 'assign' of 'SetVariable#024ec...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'out' of 'SuperUnit#3bc2c...' and 'assign' of 'SetVariable#ce3b4...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'out' of 'SuperUnit#d2203...' and 'assign' of 'SetVariable#2e572...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'value' of 'GetMember#a56ac...' and 'v' of 'SuperUnit#9bf93...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ValueOutput, Unity.VisualScripting.ValueInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between '6' of 'Sequence#3c953...' and 'in' of 'SuperUnit#a431c...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between '8' of 'Sequence#3c953...' and 'in' of 'SuperUnit#8daff...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between '7' of 'Sequence#3c953...' and 'in' of 'SuperUnit#d2203...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'out' of 'SuperUnit#7b1cb...' and 'assign' of 'SetVariable#bfa4f...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ControlOutput, Unity.VisualScripting.ControlInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:NotifyDependencyAvailable (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:293)
+Unity.VisualScripting.Serialization:NotifyDependencyDeserialized (Unity.VisualScripting.ISerializationDependency) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:266)
+Unity.VisualScripting.Macro`1<Unity.VisualScripting.FlowGraph>:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Macros/Macro.cs:76)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:51)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+ -> (artifact id: 'deca0d7746cb2ee0eaaf1deb3c9f40af') in 0.142442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/VisualScripts/ProjectOnContactPlane.asset
+  artifactKey: Guid(7e8cda6cda64f004fbc4d3d557da4809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/ProjectOnContactPlane.asset using Guid(7e8cda6cda64f004fbc4d3d557da4809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce366b4203939d1be04bf893321e2d5') in 0.004889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.323984 seconds.
+  path: Assets/Materials/Ground.mat
+  artifactKey: Guid(21870a59cab089c4bb12d08426689d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Ground.mat using Guid(21870a59cab089c4bb12d08426689d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89fa58b3cc8e7746a22159ebef34d46') in 0.057306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.373898 seconds.
+  path: Assets/Materials/Ground.mat
+  artifactKey: Guid(21870a59cab089c4bb12d08426689d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Ground.mat using Guid(21870a59cab089c4bb12d08426689d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050064e785fc6edef5b571298fdd14af') in 0.009059 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005150 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.233 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1234ms)
+		BeginReloadAssembly (148ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (62ms)
+		EndReloadAssembly (1026ms)
+			LoadAssemblies (97ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (356ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (427ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (48ms)
+				ProcessInitializeOnLoadAttributes (365ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.3 MB.
+System memory in use after: 128.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3908.
+Total: 3.834300 ms (FindLiveObjects: 0.238400 ms CreateObjectMapping: 0.086100 ms MarkObjects: 3.440800 ms  DeleteObjects: 0.067800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005046 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.206 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1206ms)
+		BeginReloadAssembly (129ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (39ms)
+		EndReloadAssembly (1019ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (351ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (425ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (50ms)
+				ProcessInitializeOnLoadAttributes (361ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.3 MB.
+System memory in use after: 128.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3911.
+Total: 3.812600 ms (FindLiveObjects: 0.316800 ms CreateObjectMapping: 0.086800 ms MarkObjects: 3.345100 ms  DeleteObjects: 0.061700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005187 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.251 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1251ms)
+		BeginReloadAssembly (135ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (1055ms)
+			LoadAssemblies (102ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (361ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (436ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (53ms)
+				ProcessInitializeOnLoadAttributes (368ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.3 MB.
+System memory in use after: 128.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3914.
+Total: 3.965800 ms (FindLiveObjects: 0.315700 ms CreateObjectMapping: 0.086600 ms MarkObjects: 3.489100 ms  DeleteObjects: 0.072400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005162 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.225 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1226ms)
+		BeginReloadAssembly (120ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (39ms)
+		EndReloadAssembly (1046ms)
+			LoadAssemblies (99ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (359ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (441ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (50ms)
+				ProcessInitializeOnLoadAttributes (376ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.3 MB.
+System memory in use after: 128.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3917.
+Total: 4.894300 ms (FindLiveObjects: 0.545500 ms CreateObjectMapping: 0.096800 ms MarkObjects: 4.153100 ms  DeleteObjects: 0.096500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004912 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.208 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1209ms)
+		BeginReloadAssembly (119ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (1030ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (356ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (434ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (371ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.3 MB.
+System memory in use after: 128.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3920.
+Total: 3.881800 ms (FindLiveObjects: 0.309500 ms CreateObjectMapping: 0.085600 ms MarkObjects: 3.415800 ms  DeleteObjects: 0.069100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1471.471713 seconds.
+  path: Assets/VisualScripts/MovingSphere.asset
+  artifactKey: Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/MovingSphere.asset using Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393d371c1ca1ae0dd9049485cdc554fa') in 0.918798 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005020 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.227 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1228ms)
+		BeginReloadAssembly (153ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (59ms)
+		EndReloadAssembly (1015ms)
+			LoadAssemblies (100ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (358ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (415ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (48ms)
+				ProcessInitializeOnLoadAttributes (353ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3393 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.3 MB.
+System memory in use after: 128.6 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3923.
+Total: 4.866600 ms (FindLiveObjects: 0.330500 ms CreateObjectMapping: 0.088700 ms MarkObjects: 4.351800 ms  DeleteObjects: 0.093500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

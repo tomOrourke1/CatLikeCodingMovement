@@ -318,7 +318,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 75913021}
-  m_LocalRotation: {x: 0.11340333, y: -1e-45, z: -0, w: 0.99354905}
+  m_LocalRotation: {x: 0.11340333, y: -0, z: -0, w: 0.99354905}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -378,7 +378,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 10ab49c25d0837c449312ebab8d92f9b, type: 2}
+  - {fileID: 2100000, guid: 21870a59cab089c4bb12d08426689d41, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -417,7 +417,7 @@ Transform:
   m_GameObject: {fileID: 76703199}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: -1.36, z: 0.59}
-  m_LocalScale: {x: 3.913, y: 1, z: 4.5159}
+  m_LocalScale: {x: 14.904617, y: 1, z: 10.4755335}
   m_Children: []
   m_Father: {fileID: 674619260}
   m_RootOrder: 0
@@ -491,7 +491,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 79711450}
-  m_LocalRotation: {x: 0.014949445, y: -0.0000000074497493, z: 1.11382056e-10, w: 0.9998883}
+  m_LocalRotation: {x: 0.014949445, y: 0.0000000074497493, z: -1.11382056e-10, w: 0.9998883}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -694,7 +694,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 373131810}
-  m_LocalRotation: {x: 0.06377018, y: -0.000000017171363, z: 0.0000000010972543, w: 0.9979646}
+  m_LocalRotation: {x: 0.06377018, y: 0.000000017171363, z: -0.0000000010972543, w: 0.9979646}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1062,7 +1062,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.06377018, y: -0.00000001726311, z: 0.0000000010913929, w: 0.9979647}
+  m_LocalRotation: {x: 0.06377018, y: 0.00000001726311, z: -0.0000000010913929, w: 0.9979647}
   m_LocalPosition: {x: 0, y: 1.58, z: -2.94}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -1248,8 +1248,8 @@ MonoBehaviour:
   m_LookaheadTime: 0
   m_LookaheadSmoothing: 0
   m_LookaheadIgnoreY: 0
-  m_HorizontalDamping: 0
-  m_VerticalDamping: 0
+  m_HorizontalDamping: 20
+  m_VerticalDamping: 20
   m_ScreenX: 0.5
   m_ScreenY: 0.55
   m_DeadZoneWidth: 0
@@ -1634,10 +1634,6 @@ PrefabInstance:
     - target: {fileID: 2638774844732085680, guid: 11ade372cebe95a4eaff392506fc4eed, type: 3}
       propertyPath: m_Name
       value: Temp Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 2638774844732085685, guid: 11ade372cebe95a4eaff392506fc4eed, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"maxSpeed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"maxAcceleration","value":{"$content":25.0,"$type":"System.Single"},"$version":"A"},{"name":"maxAirAxxeleration","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"jumpHeight","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"maxAirJumps","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"maxGroundAngle","value":{"$content":25.0,"$type":"System.Single"},"$version":"A"},{"name":"body","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"velocity","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"desiredVelocity","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"contactNormal","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"desiredJump","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"groundContactCount","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"jumpPhase","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 11ade372cebe95a4eaff392506fc4eed, type: 3}
