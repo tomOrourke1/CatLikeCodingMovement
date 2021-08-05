@@ -154,6 +154,7 @@ GameObject:
   - component: {fileID: 2638774844732085687}
   - component: {fileID: 2638774844732085685}
   - component: {fileID: 2638774844732085686}
+  - component: {fileID: 199314493463043158}
   m_Layer: 8
   m_Name: Temp Player
   m_TagString: Untagged
@@ -269,6 +270,18 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 725cfc4476d4452468489c52e72a483d, type: 2}
+--- !u!114 &199314493463043158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2638774844732085680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d482d281f0c58034e950a15f31d1af13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5461893941390201240
 GameObject:
   m_ObjectHideFlags: 0
