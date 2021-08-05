@@ -19,6 +19,6 @@ MonoBehaviour:
       Unity.VisualScripting.Flow, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]","System.Collections.Generic.List`1[[Unity.VisualScripting.InputSystem.OnInputSystemEventButton,
       Unity.VisualScripting.Flow, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]","System.Collections.Generic.List`1[[UnityEngine.InputSystem.UI.InputSystemUIInputModule,
       Unity.InputSystem, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null]]","System.Collections.Generic.List`1[[Unity.VisualScripting.InputSystem.OnInputSystemEventVector2,
-      Unity.VisualScripting.Flow, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"],"$type":"System.Collections.Generic.List`1[[System.Type,
+      Unity.VisualScripting.Flow, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]","UnityEngine.Collision"],"$type":"System.Collections.Generic.List`1[[System.Type,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}}}'
     _objectReferences: []
