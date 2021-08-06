@@ -12,11 +12,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Reflection/AttributeUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/MovingSphere.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/EventScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GetMinDotNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/RollingBall.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/MovingSphere.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1wCXwpt6v0iBNpLwIyYvGPYYn0a" />
@@ -67,7 +70,8 @@
       <updated>1627963790192</updated>
       <workItem from="1627963795511" duration="2000" />
       <workItem from="1628023449106" duration="134000" />
-      <workItem from="1628126346458" duration="2374000" />
+      <workItem from="1628126346458" duration="2949000" />
+      <workItem from="1628277856653" duration="5867000" />
     </task>
     <servers />
   </component>
