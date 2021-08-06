@@ -805,7 +805,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 75913021}
-  m_LocalRotation: {x: 0.11340333, y: -0, z: -0, w: 0.99354905}
+  m_LocalRotation: {x: 0.11340333, y: 1e-45, z: -0, w: 0.99354905}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -978,7 +978,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 79711450}
-  m_LocalRotation: {x: 0.01494945, y: -1.4077706e-16, z: 3.3001876e-18, w: 0.9998883}
+  m_LocalRotation: {x: 0.014949449, y: -1.04488425e-10, z: 1.56223e-12, w: 0.9998883}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -12392,10 +12392,6 @@ PrefabInstance:
     - target: {fileID: 2638774844732085680, guid: 11ade372cebe95a4eaff392506fc4eed, type: 3}
       propertyPath: m_Name
       value: Temp Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 2638774844732085685, guid: 11ade372cebe95a4eaff392506fc4eed, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"maxSpeed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"maxAcceleration","value":{"$content":25.0,"$type":"System.Single"},"$version":"A"},{"name":"maxAirAxxeleration","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"jumpHeight","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"maxAirJumps","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"maxGroundAngle","value":{"$content":25.0,"$type":"System.Single"},"$version":"A"},{"name":"maxStairsAngle","value":{"$content":50.0,"$type":"System.Single"},"$version":"A"},{"name":"maxSnapSpeed","value":{"$content":100.0,"$type":"System.Single"},"$version":"A"},{"name":"probeDistance","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"probeMask","value":{"value":1075,"$type":"UnityEngine.LayerMask"},"$version":"A"},{"name":"stairsMask","value":{"value":1024,"$type":"UnityEngine.LayerMask"},"$version":"A"},{"name":"body","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"velocity","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"desiredVelocity","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"contactNormal","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"steepNormal","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"desiredJump","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"groundContactCount","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"steepContactCount","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"jumpPhase","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"minGroundDotProduct","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"minStairsDotProduct","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"stepsSinceLastGrounded","value":{"$content":0,"$type":"System.Int32"},"$version":"A"},{"name":"stepsSinceLastJump","value":{"$content":0,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 11ade372cebe95a4eaff392506fc4eed, type: 3}
