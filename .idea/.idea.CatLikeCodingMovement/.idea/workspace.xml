@@ -17,8 +17,8 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/EventScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GetMinDotNode.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/RollingBall.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GetMinDotNode.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/MovingSphere.cs" />
     </changedPaths>
   </component>
@@ -71,7 +71,8 @@
       <workItem from="1627963795511" duration="2000" />
       <workItem from="1628023449106" duration="134000" />
       <workItem from="1628126346458" duration="2949000" />
-      <workItem from="1628277856653" duration="7422000" />
+      <workItem from="1628277856653" duration="9011000" />
+      <workItem from="1628485830905" duration="4454000" />
     </task>
     <servers />
   </component>
