@@ -1,0 +1,311 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.16f1 (5fa502fca597) revision 6268162'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 32641 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\_GameDevStuff\UnityStuff\Unity\Hub\Editor\2021.1.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/_GameDevStuff/UnityStuff/Projects/CatLikeCodingMovement
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57194
+Successfully changed project path to: D:/_GameDevStuff/UnityStuff/Projects/CatLikeCodingMovement
+D:/_GameDevStuff/UnityStuff/Projects/CatLikeCodingMovement
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 97.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.16f1 (5fa502fca597)
+[Subsystems] Discovering subsystems at path D:/_GameDevStuff/UnityStuff/Unity/Hub/Editor/2021.1.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/_GameDevStuff/UnityStuff/Projects/CatLikeCodingMovement/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e87)
+    Vendor:   NVIDIA
+    VRAM:     8010 MB
+    Driver:   30.0.14.7141
+Initialize mono
+Mono path[0] = 'D:/_GameDevStuff/UnityStuff/Unity/Hub/Editor/2021.1.16f1/Editor/Data/Managed'
+Mono path[1] = 'D:/_GameDevStuff/UnityStuff/Unity/Hub/Editor/2021.1.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/_GameDevStuff/UnityStuff/Unity/Hub/Editor/2021.1.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56488
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/_GameDevStuff/UnityStuff/Unity/Hub/Editor/2021.1.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/_GameDevStuff/UnityStuff/Unity/Hub/Editor/2021.1.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001518 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 116.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.783 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1783ms)
+		BeginReloadAssembly (63ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (507ms)
+			LoadAssemblies (62ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (167ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (264ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (116ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (107ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005116 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 104.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.662 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1662ms)
+		BeginReloadAssembly (162ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (1440ms)
+			LoadAssemblies (104ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (380ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (789ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (105ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (586ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 136 unused Assets to reduce memory usage. Loaded Objects now: 4236.
+Total: 4.612000 ms (FindLiveObjects: 0.342000 ms CreateObjectMapping: 0.106500 ms MarkObjects: 3.888900 ms  DeleteObjects: 0.273000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/VisualScripts/OnGround.asset
+  artifactKey: Guid(820d3730c0dbdd74cb4b98393d1c6db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/OnGround.asset using Guid(820d3730c0dbdd74cb4b98393d1c6db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f877dd99b7482f994f1c9f3f749c097') in 0.273256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000500 seconds.
+  path: Assets/VisualScripts/MovingSphere.asset
+  artifactKey: Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/MovingSphere.asset using Guid(725cfc4476d4452468489c52e72a483d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e1506977fbde25fd4040511311a3e6') in 0.999423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/VisualScripts/TestScript.asset
+  artifactKey: Guid(e9b7ee61f61563740b2e65e84e6f8722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/TestScript.asset using Guid(e9b7ee61f61563740b2e65e84e6f8722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf60190169df9bce8ff980718dff0f5b') in 0.119569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/VisualScripts/EvaluateCollision.asset
+  artifactKey: Guid(a538cd7b861da5c47934519b745d3fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/EvaluateCollision.asset using Guid(a538cd7b861da5c47934519b745d3fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Could not load connection between 'float' of 'SuperUnit#25a28...' and 'input' of 'SetVariable#13e2a...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ValueOutput, Unity.VisualScripting.ValueInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:AwaitDependencies (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:256)
+Unity.VisualScripting.Graph:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:93)
+Unity.VisualScripting.FullSerializer.fsSerializationCallbackReceiverProcessor:OnAfterDeserialize (System.Type,object) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsISerializationCallbacks.cs:127)
+Unity.VisualScripting.FullSerializer.fsSerializer:Invoke_OnAfterDeserialize (System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>,System.Type,object) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:1186)
+Unity.VisualScripting.FullSerializer.fsSerializer:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,System.Type,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:673)
+Unity.VisualScripting.FullSerializer.fsReflectedConverter:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,object&,System.Type) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/Converters/fsReflectedConverter.cs:97)
+Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_5_Converter (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:897)
+Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_4_Cycles (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:887)
+Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_3_Inheritance (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:862)
+Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_2_Version (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:766)
+Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_1_CycleReference (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:711)
+Unity.VisualScripting.FullSerializer.fsSerializer:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,System.Type,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:664)
+Unity.VisualScripting.Serialization:DeserializeJsonUtil (Unity.VisualScripting.FullSerializer.fsSerializer,string,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:182)
+Unity.VisualScripting.Serialization:DeserializeJson (Unity.VisualScripting.FullSerializer.fsSerializer,string,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:196)
+Unity.VisualScripting.Serialization:DeserializeInto (Unity.VisualScripting.SerializationData,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:122)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:50)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+Could not load connection between 'value' of 'GetMember#3fac1...' and 'int' of 'SuperUnit#25a28...'.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.VisualScripting.UnitConnection`2<Unity.VisualScripting.ValueOutput, Unity.VisualScripting.ValueInput>:HandleDependencies () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs:143)
+Unity.VisualScripting.Graph:OnAfterDependenciesDeserialized () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:112)
+Unity.VisualScripting.Serialization:CheckIfDependenciesMet (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:316)
+Unity.VisualScripting.Serialization:AwaitDependencies (Unity.VisualScripting.ISerializationDepender) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:256)
+Unity.VisualScripting.Graph:OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Graphs/Graph.cs:93)
+Unity.VisualScripting.FullSerializer.fsSerializationCallbackReceiverProcessor:OnAfterDeserialize (System.Type,object) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsISerializationCallbacks.cs:127)
+Unity.VisualScripting.FullSerializer.fsSerializer:Invoke_OnAfterDeserialize (System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>,System.Type,object) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:1186)
+Unity.VisualScripting.FullSerializer.fsSerializer:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,System.Type,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:673)
+Unity.VisualScripting.FullSerializer.fsReflectedConverter:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,object&,System.Type) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/Converters/fsReflectedConverter.cs:97)
+Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_5_Converter (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:897)
+Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_4_Cycles (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:887)
+Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_3_Inheritance (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:862)
+Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_2_Version (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:766)
+Unity.VisualScripting.FullSerializer.fsSerializer:InternalDeserialize_1_CycleReference (System.Type,Unity.VisualScripting.FullSerializer.fsData,System.Type,object&,System.Collections.Generic.List`1<Unity.VisualScripting.FullSerializer.fsObjectProcessor>&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:711)
+Unity.VisualScripting.FullSerializer.fsSerializer:TryDeserialize (Unity.VisualScripting.FullSerializer.fsData,System.Type,System.Type,object&) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Dependencies/FullSerializer/fsSerializer.cs:664)
+Unity.VisualScripting.Serialization:DeserializeJsonUtil (Unity.VisualScripting.FullSerializer.fsSerializer,string,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:182)
+Unity.VisualScripting.Serialization:DeserializeJson (Unity.VisualScripting.FullSerializer.fsSerializer,string,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:196)
+Unity.VisualScripting.Serialization:DeserializeInto (Unity.VisualScripting.SerializationData,object&,bool) (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Serialization/Serialization.cs:122)
+Unity.VisualScripting.LudiqScriptableObject:UnityEngine.ISerializationCallbackReceiver.OnAfterDeserialize () (at Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Unity/LudiqScriptableObject.cs:50)
+
+(Filename: Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Connections/UnitConnection.cs Line: 143)
+
+ -> (artifact id: 'f6c746ea1f0a499369cba55e2de8f86e') in 0.024066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/VisualScripts/GetMinDot.asset
+  artifactKey: Guid(167b1d70067ea97418f0de7baba466ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/GetMinDot.asset using Guid(167b1d70067ea97418f0de7baba466ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc51a45d737f9776600e7e40d024a9f') in 0.005306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/VisualScripts/ProjectOnContactPlane.asset
+  artifactKey: Guid(7e8cda6cda64f004fbc4d3d557da4809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/ProjectOnContactPlane.asset using Guid(7e8cda6cda64f004fbc4d3d557da4809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd297c94a4b9c0a276a39d01bab4a9f23') in 0.005634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/VisualScripts/IfElseIfElseTester.asset
+  artifactKey: Guid(7cacf857bb0155d42b7e390032dec826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/IfElseIfElseTester.asset using Guid(7cacf857bb0155d42b7e390032dec826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe71ba35f4d339f39dd8c0870d7b0d79') in 0.004944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/VisualScripts/OnSteep.asset
+  artifactKey: Guid(c6c9a5677819fb042ae4564d5ab51ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/OnSteep.asset using Guid(c6c9a5677819fb042ae4564d5ab51ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e551bbb357a397ac45ed9ba4cf8e06e') in 0.004919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 609.493700 seconds.
+  path: Assets/VisualScripts/TestScript.asset
+  artifactKey: Guid(e9b7ee61f61563740b2e65e84e6f8722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VisualScripts/TestScript.asset using Guid(e9b7ee61f61563740b2e65e84e6f8722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01844f940bbd2c1bf83e62505f7b5e46') in 0.006106 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005084 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\_GameDevStuff\UnityStuff\Projects\CatLikeCodingMovement\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.301 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1302ms)
+		BeginReloadAssembly (155ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61ms)
+		EndReloadAssembly (1086ms)
+			LoadAssemblies (99ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (368ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (464ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (53ms)
+				ProcessInitializeOnLoadAttributes (392ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.8 MB.
+System memory in use after: 139.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 4239.
+Total: 4.561900 ms (FindLiveObjects: 0.348200 ms CreateObjectMapping: 0.101400 ms MarkObjects: 4.014700 ms  DeleteObjects: 0.096000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
