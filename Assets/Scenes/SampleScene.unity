@@ -2542,8 +2542,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"focus","value":null,"$version":"A"},{"name":"distance","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"focusRadius","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"focusCentering","value":{"$content":0.5,"$type":"System.Single"},"$version":"A"},{"name":"rotationSpeed","value":{"$content":90.0,"$type":"System.Single"},"$version":"A"},{"name":"minVerticalAngle","value":{"$content":-45.0,"$type":"System.Single"},"$version":"A"},{"name":"maxVerticalAngle","value":{"$content":45.0,"$type":"System.Single"},"$version":"A"},{"name":"alignDelay","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"alignSmoothRange","value":{"$content":45.0,"$type":"System.Single"},"$version":"A"},{"name":"obstructionMask","value":{"value":0,"$type":"UnityEngine.LayerMask"},"$version":"A"},{"name":"regularCamera","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"focusPoint","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"previousFocusPoint","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"orbitAngles","value":{"x":45.0,"y":0.0,"$type":"UnityEngine.Vector2"},"$version":"A"},{"name":"lastManualRotationTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"focus","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"distance","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"focusRadius","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"focusCentering","value":{"$content":0.5,"$type":"System.Single"},"$version":"A"},{"name":"rotationSpeed","value":{"$content":90.0,"$type":"System.Single"},"$version":"A"},{"name":"minVerticalAngle","value":{"$content":-45.0,"$type":"System.Single"},"$version":"A"},{"name":"maxVerticalAngle","value":{"$content":45.0,"$type":"System.Single"},"$version":"A"},{"name":"alignDelay","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"alignSmoothRange","value":{"$content":45.0,"$type":"System.Single"},"$version":"A"},{"name":"obstructionMask","value":{"value":0,"$type":"UnityEngine.LayerMask"},"$version":"A"},{"name":"regularCamera","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"focusPoint","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"previousFocusPoint","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"orbitAngles","value":{"x":45.0,"y":0.0,"$type":"UnityEngine.Vector2"},"$version":"A"},{"name":"lastManualRotationTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
+    - {fileID: 1304645159}
     - {fileID: 500958512}
 --- !u!43 &508055938
 Mesh:
@@ -2752,8 +2753,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"collection":{"$content":[{"name":"player","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 982387442}
 --- !u!4 &565930143
 Transform:
   m_ObjectHideFlags: 0
@@ -5608,6 +5610,11 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &982387442 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2638774844732085680, guid: 11ade372cebe95a4eaff392506fc4eed, type: 3}
+  m_PrefabInstance: {fileID: 1887694919}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &987624540
 GameObject:
   m_ObjectHideFlags: 0
