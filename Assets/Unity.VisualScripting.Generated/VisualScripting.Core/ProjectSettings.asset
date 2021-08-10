@@ -20,5 +20,6 @@ MonoBehaviour:
       Unity.VisualScripting.Flow, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]","System.Collections.Generic.List`1[[UnityEngine.InputSystem.UI.InputSystemUIInputModule,
       Unity.InputSystem, Version=1.0.2.0, Culture=neutral, PublicKeyToken=null]]","System.Collections.Generic.List`1[[Unity.VisualScripting.InputSystem.OnInputSystemEventVector2,
       Unity.VisualScripting.Flow, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]","UnityEngine.Collision","GetMinDotNode"],"$type":"System.Collections.Generic.List`1[[System.Type,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"}}}'
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"aotSafeMode":{"$content":true,"$type":"System.Boolean"},"favoriteMembers":{"$content":[],"$type":"System.Collections.Generic.HashSet`1[[Unity.VisualScripting.Member,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"projectSetupCompleted":{"$content":false,"$type":"System.Boolean"},"savedVersion":{"major":1,"minor":5,"patch":1,"label":null,"increment":0,"$type":"Unity.VisualScripting.SemanticVersion"}}}'
     _objectReferences: []
