@@ -13807,10 +13807,6 @@ PrefabInstance:
       value: Orbit Camera
       objectReference: {fileID: 0}
     - target: {fileID: 5642078339340872893, guid: ab3037bbd02924449ae8e9742f1c4353, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"collection":{"$content":[{"name":"focus","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"distance","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"focusRadius","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"focusCentering","value":{"$content":0.5,"$type":"System.Single"},"$version":"A"},{"name":"rotationSpeed","value":{"$content":90.0,"$type":"System.Single"},"$version":"A"},{"name":"minVerticalAngle","value":{"$content":-45.0,"$type":"System.Single"},"$version":"A"},{"name":"maxVerticalAngle","value":{"$content":45.0,"$type":"System.Single"},"$version":"A"},{"name":"alignDelay","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"alignSmoothRange","value":{"$content":45.0,"$type":"System.Single"},"$version":"A"},{"name":"obstructionMask","value":{"value":1537,"$type":"UnityEngine.LayerMask"},"$version":"A"},{"name":"regularCamera","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"focusPoint","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"previousFocusPoint","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"orbitAngles","value":{"x":45.0,"y":0.0,"$type":"UnityEngine.Vector2"},"$version":"A"},{"name":"lastManualRotationTime","value":{"$content":0.0,"$type":"System.Single"},"$version":"A"},{"name":"gravityAlignment","value":{"x":0.0,"y":0.0,"z":0.0,"w":0.0,"$type":"UnityEngine.Quaternion"},"$version":"A"},{"name":"orbitRotation","value":{"x":0.0,"y":0.0,"z":0.0,"w":0.0,"$type":"UnityEngine.Quaternion"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 5642078339340872893, guid: ab3037bbd02924449ae8e9742f1c4353, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
       objectReference: {fileID: 1887694920}
