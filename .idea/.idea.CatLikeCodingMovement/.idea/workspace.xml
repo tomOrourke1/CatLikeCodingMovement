@@ -11,15 +11,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/CustomGravity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Reflection/AttributeUtility.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/MovingSphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/OrbitCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/CustomGravityRigidbody.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/EventScript.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/RollingBall.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GetMinDotNode.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/CustomGravity.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/CustomGravityRigidbody.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/MovingSphere.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/OrbitCamera.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1wCXwpt6v0iBNpLwIyYvGPYYn0a" />
@@ -74,6 +80,7 @@
       <workItem from="1628277856653" duration="9011000" />
       <workItem from="1628485830905" duration="4454000" />
       <workItem from="1628638408963" duration="2000" />
+      <workItem from="1628638774078" duration="1402000" />
     </task>
     <servers />
   </component>
