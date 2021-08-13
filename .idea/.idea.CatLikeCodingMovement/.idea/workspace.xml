@@ -13,6 +13,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/CustomGravity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Core/Reflection/AttributeUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4D9F1448-54E4-4B48-B32B-352F99EC3435/19/5f93ae80/Physics.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/MovingSphere.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/OrbitCamera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/CustomGravityRigidbody.cs" root0="FORCE_HIGHLIGHTING" />
@@ -88,7 +89,7 @@
       <workItem from="1628687021262" duration="1499000" />
       <workItem from="1628704215246" duration="5571000" />
       <workItem from="1628796767040" duration="1244000" />
-      <workItem from="1628861855339" duration="1609000" />
+      <workItem from="1628861855339" duration="5142000" />
     </task>
     <servers />
   </component>
