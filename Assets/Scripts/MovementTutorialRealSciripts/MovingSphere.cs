@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
 
 public class MovingSphere : MonoBehaviour {
 
@@ -52,8 +51,6 @@ public class MovingSphere : MonoBehaviour {
 
 	int stepsSinceLastGrounded, stepsSinceLastJump;
 
-	private Vector2 playerInput;
-	
 	void OnValidate () {
 		minGroundDotProduct = Mathf.Cos(maxGroundAngle * Mathf.Deg2Rad);
 		minStairsDotProduct = Mathf.Cos(maxStairsAngle * Mathf.Deg2Rad);
@@ -64,25 +61,12 @@ public class MovingSphere : MonoBehaviour {
 		body.useGravity = false;
 		OnValidate();
 	}
-	
-	public void InputMove(InputAction.CallbackContext context)
-	{
-		playerInput = context.ReadValue<Vector2>();
-		playerInput = Vector2.ClampMagnitude(playerInput, 1f);
-	}
-
-	public void InputJump(InputAction.CallbackContext context)
-	{
-		if (context.started)
-			desiredJump = true;
-	}
-	
 
 	void Update () {
-		Vector2 playerInput = this.playerInput;
-		//playerInput.x = Input.GetAxis("Horizontal");
-		//playerInput.y = Input.GetAxis("Vertical");
-		//playerInput = Vector2.ClampMagnitude(playerInput, 1f);
+		Vector2 playerInput;
+		playerInput.x = Input.GetAxis("Horizontal");
+		playerInput.y = Input.GetAxis("Vertical");
+		playerInput = Vector2.ClampMagnitude(playerInput, 1f);
 
 		if (playerInputSpace) {
 			rightAxis = ProjectDirectionOnPlane(playerInputSpace.right, upAxis);
@@ -96,7 +80,7 @@ public class MovingSphere : MonoBehaviour {
 		desiredVelocity =
 			new Vector3(playerInput.x, 0f, playerInput.y) * maxSpeed;
 		
-		//desiredJump |= Input.GetButtonDown("Jump");
+		desiredJump |= Input.GetButtonDown("Jump");
 	}
 
 	void FixedUpdate () {

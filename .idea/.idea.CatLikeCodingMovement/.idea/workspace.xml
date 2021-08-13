@@ -24,6 +24,10 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/GetMinDotNode.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/CustomGravity.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/CustomGravityRigidbody.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/GravityBox.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/GravityPlane.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/GravitySource.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/GravitySphere.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/MovingSphere.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MovementTutorialRealSciripts/OrbitCamera.cs" />
     </changedPaths>
@@ -84,6 +88,7 @@
       <workItem from="1628687021262" duration="1499000" />
       <workItem from="1628704215246" duration="5571000" />
       <workItem from="1628796767040" duration="1244000" />
+      <workItem from="1628861855339" duration="981000" />
     </task>
     <servers />
   </component>
